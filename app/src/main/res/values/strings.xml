@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="newsapi_api_key"></string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="tab_format">Tab: %1$d</string>
+
+    <!--Keys for content value object items-->
+    <string name="key_article_source">source</string>
+    <string name="key_article_description">description</string>
+    <string name="key_article_url">url</string>
+    <string name="key_article_url_to_image">urlToImage</string>
+    <string name="key_article_published_date">publishedDate</string>
+    <string name="title_activity_web">WebActivity</string>
+
+</resources>
